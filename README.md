@@ -1,4 +1,4 @@
-# TrailersApp
+# TrailersR'US
 A simple demo project for The Movie DB based on <b>MVVM clean architecture</b>.
 
 <img src="https://github.com/anitaa1990/TrailersApp/blob/master/media/2.gif" width="200" style="max-width:100%;">   <img src="https://github.com/anitaa1990/TrailersApp/blob/master/media/3.gif" width="200" style="max-width:100%;"></br></br>
@@ -36,20 +36,3 @@ Based on mvvm architecture and repository pattern.
 * <b>util</b> - contains classes needed for activity/fragment redirection, ui/ux animations.
 
 
-#### App Specs
-* Minimum SDK 16
-* [Java8](https://java.com/en/download/faq/java8.xml) (in master branch) & [Kotlin](https://kotlinlang.org/) (in kotlin_support branch)
-* MVVM Architecture
-* Android Architecture Components (LiveData, Lifecycle, ViewModel, Room Persistence Library, Navigation Component, ConstraintLayout)
-* [RxJava2](https://github.com/ReactiveX/RxJava) for implementing Observable pattern.
-* [Dagger 2](https://google.github.io/dagger/) for dependency injection.
-* [Retrofit 2](https://square.github.io/retrofit/) for API integration.
-* [Gson](https://github.com/google/gson) for serialisation.
-* [Okhhtp3](https://github.com/square/okhttp) for implementing interceptor, logging and mocking web server.
-* [Mockito](https://site.mockito.org/) for implementing unit test cases
-* [Picasso](http://square.github.io/picasso/) for image loading.
-* Custom Views: [Loading](https://github.com/yankai-victor/Loading), [Side Menu](https://github.com/Yalantis/Side-Menu.Android)
-
-
-<h2>Sample App</h2>
-<p><a href="https://play.google.com/store/apps/details?id=com.an.trailers"><img width="150" alt="Get it on Google Play" src="https://camo.githubusercontent.com/ccb26dee92ba45c411e669aae47dcc0706471af7/68747470733a2f2f706c61792e676f6f676c652e636f6d2f696e746c2f656e5f67622f6261646765732f696d616765732f67656e657269632f656e5f62616467655f7765625f67656e657269632e706e67" data-canonical-src="https://play.google.com/intl/en_gb/badges/images/generic/en_badge_web_generic.png" style="max-width:100%;"></a></p>
